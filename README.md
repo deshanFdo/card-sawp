@@ -43,6 +43,6 @@ An interactive **Card Swap** feature built with HTML, CSS, and JavaScript. This 
 - **CSS**:
   - Styling for the main card layout, hidden cards, and animations for smooth rotation and hover reveal.
 
-- **JavaScript** (`script.js`):
+- **JavaScript**:
   - **Rotation Logic**: Each click on a "next" button rotates the card to show the next item in the sequence.
   - **Hover Reveal**: JavaScript may add or modify classes to trigger the reveal effect on hover.
