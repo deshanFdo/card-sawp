@@ -31,9 +31,9 @@ An interactive **Card Swap** feature built with HTML, CSS, and JavaScript. This 
 
 ## File Structure
 
-- **`index.html`**: Contains the structure for the card container, main cards, and hidden cards.
-- **`styles.css`**: Includes styling for the layout, card design, rotation animations, and hover effects.
-- **`script.js`**: JavaScript file managing the card rotation and "next" functionality.
+- **`card.html`**: Contains the structure for the card container, main cards, and hidden cards.
+- **`card.css`**: Includes styling for the layout, card design, rotation animations, and hover effects.
+- **`card.js`**: JavaScript file managing the card rotation and "next" functionality.
 
 ## Code Overview
 
